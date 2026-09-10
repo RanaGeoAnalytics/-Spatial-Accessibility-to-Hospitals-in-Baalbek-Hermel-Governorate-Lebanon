@@ -27,6 +27,11 @@ This graph compares the built-up area values for the hospitals.
 ## Methods
 
 The analysis used Sentinel-2 imagery, NDBI, ArcMap, hospital locations, and 5 km buffer analysis.
+## Copyright
+
+© 2026 Rana Yassine. All rights reserved.
+
+The maps, graphs, analysis, and documentation in this repository were prepared by Rana Yassine. They may not be copied, modified, or redistributed without written permission.
 
 **Prepared by:** Rana Yassine  
 **Date:** September 2026
